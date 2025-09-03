@@ -1,0 +1,10 @@
+speechrecognition
+pprintpp
+moviepy
+yt-dlp
+llama-index
+llama-index-vector-stores-lancedb
+llama-index-embeddings-huggingface
+llama-index-embeddings-clip
+llama-index-multi-modal-llms-gemini
+python-dotenv
