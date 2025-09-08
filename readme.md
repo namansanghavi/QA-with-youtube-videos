@@ -63,11 +63,12 @@ Now open your browser at http://localhost:8501 (or the provided link).
 ## 📊 Example Workflow
 1. Before (User Input)
 Upload or paste a YouTube video link in the frontend.
-![Alt Text](path/to/image.png)
+![Alt Text](exg1.png)
 2. Processing (Backend in Action)
 The system extracts the transcript and runs the QA model.
-![Alt Text](path/to/image.png)
+![Alt Text](exg2.png)
 3. After (Answer Generated)
 The final answer is displayed on the frontend.
-![Alt Text](path/to/image.png)
+![Alt Text](exg3.png)
+
 
